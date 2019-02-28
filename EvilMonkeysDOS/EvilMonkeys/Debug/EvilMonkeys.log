@@ -1,0 +1,15 @@
+﻿  character.cpp
+  enemy.cpp
+  fireball.cpp
+  game.cpp
+e:\game development\win32 projects\evilmonkeys\evilmonkeys\game.cpp(21): warning C4309: 'argument': truncation of constant value
+e:\game development\win32 projects\evilmonkeys\evilmonkeys\game.cpp(67): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+e:\game development\win32 projects\evilmonkeys\evilmonkeys\game.cpp(69): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  level.cpp
+  mage.cpp
+  main.cpp
+  sprite.cpp
+  Generating Code...
+  EvilMonkeys.vcxproj -> E:\Game Development\Win32 Projects\EvilMonkeys\Debug\EvilMonkeys.exe
